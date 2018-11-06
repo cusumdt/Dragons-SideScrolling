@@ -8,9 +8,10 @@
 #include "Game\game.h"
 #include "Logic\mov_dragon.h"
 #include <iostream>
+
 using namespace std;
 
-#define MUSIC_ON
+//#define MUSIC_ON
 namespace Game
 {
 	Screen screen = MENU;

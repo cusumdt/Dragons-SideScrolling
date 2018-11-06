@@ -7,7 +7,7 @@
 #include "screen\Gameplay\gameplay.h"
 #include "screen\Credits\credits.h"
 #include "screen\Defeat\defeat.h"
-#define MUSIC_ON
+//#define MUSIC_ON
 namespace Game
 {
 	static void Init();
