@@ -1,5 +1,5 @@
 Dragons-SideScrolling/.vs/
 Dragons-SideScrolling/[Oo]bj/
 Dragons-SideScrolling/[Bb]in/
-Dragons-SideScrolling/*.db/
-Dragons-SideScrolling/*.opendb/
+Dragons-SideScrolling/*.db
+Dragons-SideScrolling/*.opendb
